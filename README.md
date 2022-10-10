@@ -1,39 +1,31 @@
 ## Hello there, I'm Danya!
-### Фронтэнд разработчик
+### Веб-разработчик
 
+### My stack and tools:
+<a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' target='_blank' alt='JavaScript'>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30">
+</a>
+<a href='https://www.typescriptlang.org/' target='_blank' alt='TypeScript'>
+   <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" height="30">
+</a>
+<a href='https://reactjs.org/' target='_blank' alt='React'>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="30">
+</a>
+<a href='https://mobx.js.org/README.html' target='_blank' alt='MobX'>
+   <img src="https://brandslogos.com/wp-content/uploads/thumbs/mobx-logo-vector.svg" height="30">
+</a>
+<a href='https://sass-lang.com/' target='_blank' alt='Sass'>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="30">
+</a>
+<a href='https://www.nodejs.org' target='_blank' alt='NodeJs'>
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="30">
+</a>
+<a href='https://webpack.js.org/' target='_blank' alt='Webpack'>
+   <img src="https://github.com/webpack/media/blob/master/logo/icon.png?raw=true" height="30">
+</a>
 
-<!--
-### Languages and tools
+### Contact with me: 
+<a href='https://t.me/achoavsmysle' target='_blank' alt='Telegram'>
+   <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" height="30">
+</a>
 
-![React](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
--->
-
-
-<!--
-
-![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=mysql)
-![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript)
-![Golang](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=go)
-![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=mysql)
-
-
--->
-
-
-<!--
-**DanyaMarkov/DanyaMarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
