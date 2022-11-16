@@ -3,24 +3,41 @@
 
 Frontend:
 — JavaScript, TypeScript
+
 — ReactJS
+
 — MobX / Redux Toolkit / Redux / Redux Thunk
+
 — Formik
+
 — SCSS / CSS Modules
+
 — Bootstrap / Ant Design
 
+
 Backend:
+
 — Node.JS / Express
+
 — PostgreSQL
+
 — Sequalize
-— JWT
+
+— JWT  
+
 
 Other skills:
+
 — Git / GitHub
+
 — ESLint, Prettier
+
 — BEM (CSS)
+
 — Trello
+
 — Photoshop, Figma
+
 
 ### Contact with me: 
 <a href='https://t.me/achoavsmysle' target='_blank' alt='Telegram'>
