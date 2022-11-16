@@ -11,8 +11,11 @@
 <a href='https://reactjs.org/' target='_blank' alt='React'>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="30">
 </a>
-<a href='https://mobx.js.org/README.html' target='_blank' alt='MobX'>
+<a href='https://redux-toolkit.js.org/' target='_blank' alt='MobX'>
    <img src="https://brandslogos.com/wp-content/uploads/thumbs/mobx-logo-vector.svg" height="30">
+</a>
+<a href='https://mobx.js.org/README.html' target='_blank' alt='Redux'>
+   <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" height="30">
 </a>
 <a href='https://sass-lang.com/' target='_blank' alt='Sass'>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="30">
