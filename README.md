@@ -1,4 +1,4 @@
-## Hello there, I'm Danya!
+## Hello there, I'm Daniel!
 ### Веб-разработчик
 
 ### My stack and tools:
