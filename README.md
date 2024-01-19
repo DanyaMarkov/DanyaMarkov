@@ -46,9 +46,3 @@
 <a href='https://www.postgresql.org/' target='_blank' alt='PostgreSql'>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" height="30">
 </a>
-
-### Contact with me: 
-<a href='https://t.me/achoavsmysle' target='_blank' alt='Telegram'>
-   <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" height="30">
-</a>
-
