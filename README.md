@@ -1,5 +1,5 @@
 ## Hello there, I'm Daniel!
-### Веб-разработчик
+### Web Developer
 
 ### My stack and tools:
 
