@@ -46,3 +46,18 @@
 <a href='https://www.postgresql.org/' target='_blank' alt='PostgreSql'>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" height="30">
 </a>
+
+#### Else: 
+
+<a href='https://vitejs.dev/' target='_blank' alt='Vite'>
+   <img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" height="30">
+</a>
+<a href='https://jestjs.io/ru/' target='_blank' alt='Jest'>
+   <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="30">
+</a>
+<a href='https://prettier.io/' target='_blank' alt='Prettier'>
+   <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/prettier-1-logo.png" height="30">
+</a>
+<a href='https://eslint.org/' target='_blank' alt='Eslint'>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" height="30">
+</a>
